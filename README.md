@@ -1,7 +1,16 @@
 # Generate summaries from texts using Streamlit & HuggingFace Pipeline
 
 ## To view the video
-[![Click Here](https://img.shields.io/youtube/views/LK9dVN9yMYY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge)](https://youtu.be/LK9dVN9yMYY)
+
+<!--- [![Click Here](https://img.shields.io/youtube/views/LK9dVN9yMYY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge)](https://youtu.be/LK9dVN9yMYY)
+---> 
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=LK9dVN9yMYY" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/LK9dVN9yMYY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
 <br>
 Or click on the image below
 
